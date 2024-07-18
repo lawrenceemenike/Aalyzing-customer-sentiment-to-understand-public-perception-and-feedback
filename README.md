@@ -15,16 +15,16 @@ Conducted initial data exploration to understand the structure and contents of t
 - Perform Data Cleaning:
 Cleaned the data to prepare for analysis, including handling missing values.
 
-Remove Punctuation from Text:
+- Remove Punctuation from Text:
 Implemented text preprocessing to remove punctuation for better analysis.
 
-Remove Stopwords:
+- Remove Stopwords:
 Filtered out common stopwords to focus on meaningful words in the reviews.
 
-Perform Count Vectorization (Tokenization):
+- Perform Count Vectorization (Tokenization):
 Applied tokenization to convert text data into numerical data.
 
-Apply Data Cleaning:
+- Apply Data Cleaning:
 Combined all preprocessing steps for a comprehensive data cleaning process.
 
 # Understand Naive Bayes Theory and Intuition:
